@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jeanlopesnutri.vercel.app/sitemap.xml

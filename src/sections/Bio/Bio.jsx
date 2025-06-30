@@ -10,7 +10,7 @@ function Bio() {
         </div>
 
         <div class="bio-content">
-          <h1>Sobre mim</h1>
+          <h2>Sobre mim</h2>
           <p>
             Sou nutricionista formado pela Unicamp, com foco em nutrição clínica
             voltada ao emagrecimento e à promoção da qualidade de vida. Atendo

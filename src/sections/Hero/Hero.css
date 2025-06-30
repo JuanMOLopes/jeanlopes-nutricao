@@ -11,7 +11,7 @@
   color: var(--ghostwhite);
 }
 
-.hero-content h1 {
+.hero-content .title {
   font-size: 3rem;
   font-weight: 700;
   margin-bottom: 0.5rem;
@@ -55,7 +55,7 @@ body.modo-escuro .hero {
     margin-top: -1rem;
   }
 
-  .hero-content h1 {
+  .hero-content .title {
     display: none;
   }
 
