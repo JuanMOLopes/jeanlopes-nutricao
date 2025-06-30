@@ -30,7 +30,7 @@ function Contato() {
             rel="noopener noreferrer"
             aria-label="Instagram"
           >
-            <img src={Instagram} alt="Instagram" />
+            <img src={Instagram} loading="lazy" alt="Instagram" />
           </a>
           <a
             href="https://api.whatsapp.com/send/?phone=5519991701252&text&type=phone_number&app_absent=0"
@@ -38,7 +38,7 @@ function Contato() {
             rel="noopener noreferrer"
             aria-label="WhatsApp"
           >
-            <img src={Whatsapp} alt="WhatsApp" />
+            <img src={Whatsapp} loading="lazy" alt="WhatsApp" />
           </a>
         </div>
       </div>
