@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./BtnContato.css";
 
-import WhatsappBtn from "/whatsapp-btn.png";
+import WhatsappBtn from "/whatsapp-btn.webp";
 
 function BtnContato() {
   const [bottomOffset, setBottomOffset] = useState(32);

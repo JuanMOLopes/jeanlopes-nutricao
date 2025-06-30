@@ -1,7 +1,7 @@
 import "./Footer.css";
 
-import Instagram from "/instagram.png";
-import Whatsapp from "/whatsapp.png";
+import Instagram from "/instagram.webp";
+import Whatsapp from "/whatsapp.webp";
 
 function Footer() {
   return (

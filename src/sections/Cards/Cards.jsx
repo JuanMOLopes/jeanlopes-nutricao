@@ -9,17 +9,17 @@ function Cards() {
       <div className="cards">
         <div className="cards-container">
           <Card
-            image="/jean-card1.jpeg"
+            image="/jean-card1.webp"
             text="Acompanhamento nutricional"
             icon="calendar_today"
           />
           <Card
-            image="/jean-card2.jpeg"
+            image="/jean-card2.webp"
             text="Plano alimentar"
             icon="menu_book"
           />
           <Card
-            image="/jean-card3.jpeg"
+            image="/jean-card3.webp"
             text="Reeducação alimentar"
             icon="school"
           />

@@ -6,7 +6,7 @@ function Bio() {
     <>
       <section class="bio" id="bio">
         <div class="bio-image">
-          <img src="/jean-bio.png" alt="Jean Lopes Formação" />
+          <img src="/jean-bio.webp" alt="Jean Lopes Formação" />
         </div>
 
         <div class="bio-content">

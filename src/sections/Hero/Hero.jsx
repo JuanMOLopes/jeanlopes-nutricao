@@ -16,7 +16,7 @@ function Hero() {
 
         <div class="hero-image">
           <img
-            src="/jean-hero.png"
+            src="/jean-hero.webp"
             alt="Jean de Oliveira Lopes - Nutricionista"
           />
         </div>

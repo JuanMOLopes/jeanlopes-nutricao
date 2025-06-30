@@ -3,7 +3,7 @@ import "./Header.css";
 import Navbar from "../Navbar/Navbar";
 import ModoEscuro from "../ModoEscuro/ModoEscuro";
 
-import Logo from "/logo.png";
+import Logo from "/logo.webp";
 
 function Header() {
   return (
