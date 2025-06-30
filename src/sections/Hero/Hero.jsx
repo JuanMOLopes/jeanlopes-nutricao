@@ -9,7 +9,7 @@ function Hero() {
           <h2 className="title">Jean Lopes</h2>
           <h2>Nutricionista Clínico</h2>
           <p>
-            Minha paixão? Alimentação! Meu propósito? Transformar vidas!
+            Minha paixão? Alimentação!
           </p>
           <CtaButton/>
         </div>
